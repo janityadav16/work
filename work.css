@@ -17,8 +17,7 @@ body {
     margin-bottom: 20px;
 }
 
-.section-title,
-.subsection-title {
+.section-title {
     font-weight: bold;
     text-align: center;
     margin: 20px 0;
@@ -38,6 +37,10 @@ body {
     width: 60%;
     text-align: center;
     background-color: #f9f9f9;
+}
+
+.info-section {
+    margin: 20px;
 }
 
 ul {
